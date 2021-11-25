@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### My name isIsaac Ferraro. I am a General Assembly (GA) graduate, as well as an Olympic College graduate. In early 2020, before I had completed my Associate of Science Degree, I decided I would attend GA’s twelve-week Software Engineering Immersive course. From August to November 2021, I attended and completed this course, gaining practical full-stack development skills. Presently, I plan to use this new knowledge to build and iterate upon web applications, especially on the front-end. Here, you'll find both my GA and personal projects.
+My name is Isaac Ferraro. I am a General Assembly (GA) graduate, as well as an Olympic College graduate. In early 2020, before I had completed my Associate of Science Degree, I decided I would attend GA’s twelve-week Software Engineering Immersive course. From August to November 2021, I attended and completed this course, gaining practical full-stack development skills. Presently, I plan to use this new knowledge to build and iterate upon web applications, especially on the front-end. 
+Here, you'll find both my GA and personal projects.
 
 <!--
 **iferraro/iferraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
